@@ -133,11 +133,9 @@ House-Price-Prediction/
 │
 ├── House_Price_Prediction.ipynb
 ├── README.md
-├── requirements.txt
-├── model.pkl
-├── pipeline.pkl
+
 ├── dataset.csv
-└── images/
+
 ```
 
 ---
